@@ -1,0 +1,238 @@
+---
+article_id: KKP-18-A06
+title: "Menulis Case Study Proyek Kolam yang Bisa Diverifikasi"
+slug: "case-study-proyek-kolam-terverifikasi"
+description: "Require context, brief, constraints, scope, team, dated process, changes, tests, outcomes, limitations, lessons, and permission"
+status: outline
+publication_date: "2026-07-25"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: KKP-18
+primary_intent: "Publish useful proof"
+reader_community: "Kontraktorkolam.co.id"
+reader_address: "Kawan Kontraktorkolam.co.id"
+final_route: "/artikel/case-study-proyek-kolam-terverifikasi.html"
+technical_review: required
+sources:
+  - "https://peraturan.bpk.go.id/Details/161846/pp-no-16-"
+  - "https://simbg.pu.go.id/"
+  - "https://ciptakarya.pu.go.id/bsb/Download/Read/35"
+  - "https://dataonline.bmkg.go.id/"
+  - "https://www.fao.org/soils-portal/en/"
+  - "https://websoilsurvey.nrcs.usda.gov/"
+  - "https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999"
+  - "https://www.who.int/publications/i/item/9789289041683"
+  - "https://www.who.int/publications/i/item/9241546808"
+  - "https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html"
+  - "https://kebudayaan.kemdikbud.go.id/bpnbjabar/aktivitas-masyarakat-sunda-di-golodog-imah-panggung/"
+  - "https://kebudayaan.kemdikbud.go.id/bpnbjabar/patanjala-vol-2-no-3-september-2010/"
+  - "https://kebudayaan.kemdikbud.go.id/cisamaya-kampung-pasundan-tonjolkan-jejak-kehidupan-masyarakat-sunda/"
+  - "https://pesta.bsn.go.id/produk/index?key=1726"
+  - "https://pesta.bsn.go.id/produk/detail/9716-sni79732013"
+  - "https://pesta.bsn.go.id/produk/detail/12306-sni28472019"
+  - "https://pesta.bsn.go.id/produk/detail/12626-sni17272020"
+  - "https://pesta.bsn.go.id/produk/detail/12305-sni17262019"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Menulis Case Study Proyek Kolam yang Bisa Diverifikasi
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Menulis Case Study Proyek Kolam yang Bisa Diverifikasi”
+- **Reader and situation:** Contractor/editor documenting real work
+- **Reader outcome:** Require context, brief, constraints, scope, team, dated process, changes, tests, outcomes, limitations, lessons, and permission
+- **Primary intent:** Publish useful proof
+- **Reader community:** `Kontraktorkolam.co.id`
+- **Primary friendly address:** `Kawan Kontraktorkolam.co.id`
+- **Natural variants:** `Sobat Kontraktorkolam.co.id` and `Teman Kontraktorkolam.co.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** No fabricated/localized case, unsupported result, or private client data
+- **Final public route:** `/artikel/case-study-proyek-kolam-terverifikasi.html`
+- **Appointed CMS date:** `2026-07-25` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Kawan Kontraktorkolam.co.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Menulis Case Study Proyek Kolam yang Bisa Diverifikasi**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Kawan Kontraktorkolam.co.id`, `Sobat Kontraktorkolam.co.id`, or `Teman Kontraktorkolam.co.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `kontraktorkolam.co.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** A defensible article distinguishes material, processed product, tested specimen, installed assembly, company offer, and legal/compliance claim.
+- **Limits:** Recheck the repository and live commercial evidence before any claim about stock, capacity, certification, warranty, price, or completed work.
+
+### KR-25
+
+- **Original sources:** [PP 16/2021 official BPK record](https://peraturan.bpk.go.id/Details/161846/pp-no-16-) and [SIMBG public service](https://simbg.pu.go.id/).
+- **Purpose for this article:** Ground function, site, building-governance, approval, inspection, use, alteration, and handover articles.
+- **Safe grounded facts:** The marketing label “gazebo,” small area, open sides, prefabrication, or garden location does not by itself settle classification, approval, setback, site, accessibility, fire, structural, or use obligations.
+- **Limits:** Confirm current national and local rules, land/site status, function/classification, proposed work, PBG/SLF applicability, submissions, responsible professionals, inspections, and approvals under G-02.
+
+### KR-38
+
+- **Original sources:** [PUPR Guide to Green Open Space Planning](https://ciptakarya.pu.go.id/bsb/Download/Read/35), [BMKG data portal](https://dataonline.bmkg.go.id/).
+- **Purpose for this article:** Ground site-analysis and program articles in connected soil, water, climate, users, access, utilities, buildings, and vegetation evidence.
+- **Safe grounded facts:** Boundary, levels, drainage, existing trees, shade, wind, utilities, soil, access, users, adjacent structures, views, and maintenance capacity can be surveyed separately.
+- **Limits:** Public data does not replace a current survey, utility detection, soil/water testing, user brief, or professional design.
+
+### KR-39
+
+- **Original sources:** [FAO soils portal](https://www.fao.org/soils-portal/en/), [USDA Web Soil Survey](https://websoilsurvey.nrcs.usda.gov/).
+- **Purpose for this article:** Prevent texture, pH, fertility, compaction, infiltration, contamination, and media specifications from being inferred by appearance.
+- **Safe grounded facts:** Texture, structure, bulk density/compaction, organic matter, pH, salinity, nutrients, infiltration, drainage, contamination, and rooting depth measure different conditions.
+- **Limits:** No universal amendment, fertilizer, lime, excavation, or drainage prescription; require site samples and agronomy/geotechnical/environmental review as applicable.
+
+### KR-71
+
+- **Original sources:** [BMKG data portal](https://dataonline.bmkg.go.id/), [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md), [UU No. 8 Tahun 1999](https://peraturan.bpk.go.id/Details/45288/uu-no-8-tahun-1999).
+- **Purpose for this article:** Separate stable pool principles from changing rainfall/heat/dust/salinity/source water, service coverage, capacity, product, price, cases, certificates, and warranties.
+- **Safe grounded facts:** A weather normal, city name, photograph, quote, portfolio, testimonial, certificate, equipment list, test, and warranty prove different things.
+- **Limits:** If current site/operator proof is absent, keep the article neutral and mark the evidence gap. ## Topic-family coverage matrix | Topic family | Main evidence records | Safe ground for the article set | Remaining gate before definitive drafting | | --- | --- | --- | --- | | `KKP-01` | KR-01, KR-25, KR-47, KR-64, KR-31, KR-38, KR-51, KR-54, KR-71, KR-41 | Owner brief, outcomes, and project feasibility; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-02` | KR-01, KR-26, KR-55, KR-61, KR-14, KR-60, KR-62, KR-63, KR-64, KR-71 | Site survey and due diligence; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-03` | KR-01, KR-28, KR-32, KR-51, KR-69, KR-24, KR-58, KR-34, KR-49, KR-55 | Delivery models, scope, roles, and interfaces; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-04` | KR-01, KR-39, KR-55, KR-64, KR-14, KR-30, KR-69, KR-57, KR-65, KR-71 | Design coordination and constructability; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-05` | KR-01, KR-51, KR-69, KR-55, KR-56, KR-57, KR-60, KR-61, KR-62, KR-71 | Budget, BOQ, bid leveling, and value; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-06` | KR-01, KR-28, KR-32, KR-24, KR-60, KR-61, KR-62, KR-64, KR-68, KR-69 | Programme, permits, logistics, and project risk; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-07` | KR-01, KR-26, KR-55, KR-61, KR-14, KR-54, KR-56, KR-60, KR-62, KR-65 | Excavation, structure, and concrete-shell delivery; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-08` | KR-01, KR-63, KR-57, KR-58, KR-60, KR-61, KR-62, KR-64, KR-68, KR-69, KR-71 | Hydraulics, plumbing, and plant-room installation; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-09` | KR-01, KR-43, KR-48, KR-30, KR-65, KR-47, KR-32, KR-60, KR-61, KR-62 | Electrical, controls, lights, and automation; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-10` | KR-01, KR-49, KR-56, KR-68, KR-63, KR-34, KR-60, KR-61, KR-62, KR-71 | Waterproofing, joints, and leak-prevention QA; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-11` | KR-01, KR-21, KR-38, KR-56, KR-63, KR-60, KR-61, KR-62, KR-64, KR-67 | Mosaic, finishes, coping, and deck interfaces; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-12` | KR-01, KR-32, KR-51, KR-24, KR-18, KR-69, KR-68, KR-65, KR-70, KR-71 | Procurement, submittals, storage, and traceability; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-13` | KR-01, KR-68, KR-69, KR-61, KR-53, KR-08, KR-56, KR-60, KR-62, KR-65 | Construction QA, inspections, changes, and progress control; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-14` | KR-01, KR-69, KR-68, KR-56, KR-57, KR-60, KR-61, KR-62, KR-65, KR-67, KR-71 | Commissioning, handover, training, and baseline; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-15` | KR-01, KR-47, KR-66, KR-69, KR-55, KR-56, KR-58, KR-60, KR-61, KR-62 | Renovation, leak investigation, and retrofit delivery; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-16` | KR-01, KR-21, KR-38, KR-57, KR-60, KR-61, KR-62, KR-65, KR-68, KR-71 | Maintenance and water-treatment service delivery; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-17` | KR-01, KR-28, KR-32, KR-51, KR-18, KR-24, KR-69, KR-33, KR-67, KR-71 | Contractor selection, contract, warranty, and disputes; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | | `KKP-18` | KR-01, KR-25, KR-38, KR-39, KR-71, KR-49, KR-67, KR-37, KR-27, KR-55 | Project archetypes, local evidence, and lessons learned; use only the sourced definitions, decision inputs, system boundaries, and evidence practices in those records. | G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims. | Coverage result: **18/18 topic families mapped; 0 families without a starting evidence set.** ## Cross-catalog fact bank 1. A public map or climate series, field survey, laboratory result, design input, installed condition, and operating result are different evidence layers. 2. Common name, accepted botanical name, nursery identity, cultivar/provenance, delivered batch, and local performance are different evidence objects. 3. Planting design must consider mature roots/canopy, users, utilities, structures, water, maintenance, risks, and replacement—not appearance alone. 4. A watering duration is meaningless without flow, distribution, area, soil/media, plant stage, weather, and measured response. 5. Drainage follows the catchment, levels, infiltration, receiving system, overflow, erosion, water quality, and maintenance; a drain product does not prove capacity. 6. A paver, coating, luminaire, planter, pond component, green-wall module, or gazebo does not prove the installed system. 7. One symptom or photograph cannot distinguish water, nutrient, root, chemical, pest, disease, and building-interface causes. 8. Biodiversity, cooling, carbon, flood, native, low-maintenance, and sustainability claims require a defined baseline, method, boundary, and monitoring period. 9. Pool, ornamental pond, aquarium, irrigation, rainwater, wastewater, and recreational water have different purpose-specific evidence. 10. Prices, services, plant/product lists, coverage, capacity, cases, schedules, certificates, warranties, and performance are volatile operator evidence. ## Evidence gaps and publication gates | Gate | Affected topic families | Resolution required | | --- | --- | --- | | `G-01` Current complete standards and exact acceptance | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain licensed current editions, applicable clauses, methods, inputs, units, tolerances, acceptance, and qualified interpretation | | `G-02` Function, site, users, local rules, PBG/SLF, and approvals | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Verify location, land/site constraints, public/private function, permanence, users, work scope, local rules, PBG/SLF applicability, submissions, responsible parties, and authority decisions | | `G-03` Climate, occupancy, loads, exposure, and geometry | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain surveyed geometry, use/occupancy, wind/rain/seismic inputs, topography, microclimate, wetting/drying, temperature, shade, vegetation, drainage, and change scenarios | | `G-04` Ground, foundation, anchors, slopes, water, and services | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain survey, investigation, soil/groundwater/drainage/slope/service facts, reactions, design, excavation/temporary works, concrete/anchor evidence, inspection, and geotechnical/structural acceptance | | `G-05` Complete structural design, connections, stability, and acceptance | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain current load/seismic/wood basis, material grades, calculations, drawings, load path, bracing, connections, anchorage, temporary stability, inspections, deviations, and signed engineer review | | `G-06` Exact material, roof, finish, fastener, and product-system evidence | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain product construction/grade/moisture/coating, current data/instructions/SDS/reports, exposure and compatibility evidence, samples/mockups, fastening/lap/detail basis, maintenance, and warranty | | `G-07` Moisture, biological damage, treatment, drainage, and durability | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Verify species/product, moisture paths, ground separation, drainage/ventilation, organism/activity, treatment identity/label/history, finish system, inspection baseline, specialist disposition, and follow-up | | `G-08` Fire strategy, ignition sources, assembly evidence, and post-fire decision | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Confirm function/users, local fire basis, ignition/electrical/cooking exposure, separation/escape/access, exact assembly evidence, controls, incident facts, and fire/structural decision | | `G-09` Accessible route, lighting, power, controls, and electrical verification | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Verify user/function applicability, continuous route and level-change details, seating/guards/controls, supply/earthing/environment, circuit protection, equipment, competent design/installation, testing, and records | | `G-10` Construction K3, temporary works, lifting, height, and public protection | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Confirm current duties, risk assessment, competence, temporary stability, excavation/lifting/height/machine/electrical/chemical controls, weather limits, exclusion, emergency/rescue, supervision, and records | | `G-11` Inspection, quality control, testing, deviations, and handover | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Define approved submittals, samples, hold points, measurements, inspections/tests, nonconformance, concealed-work records, commissioning, as-built documents, care plan, warranty, and acceptance | | `G-12` Current legality, traceability, sustainability, and claim scope | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Verify species/product/source, current forestry rules, official status, chain model, certificate holder/scope, transaction records, conservation/trade context, lifecycle method, and authorized wording | | `G-13` Equivalent scope, price, schedule, supplier, contract, and warranty | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain dated offers with the same site/design/material/finish/MEP/approval/safety/QC/logistics scope, explicit exclusions/deviations, capability, milestones, payment, acceptance, warranty, maintenance, and claim route | | `G-14` Site, climate, soil, levels, utilities, water, users, and baseline | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain current boundary/topographic/utility survey, representative soil/water tests, BMKG/local climate basis, existing-tree/condition inventory, user/maintenance brief, photographs, risks, and signed baseline | | `G-15` Botanical identity, provenance, nursery quality, mature form, toxicity, and local status | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Verify accepted name/synonyms, cultivar/provenance, delivered batch, nursery condition, mature traits, Indonesian invasive/protected status, toxicity/thorns, local ecology, and authorized selection | | `G-16` Irrigation demand, water source/quality, hydraulic performance, and permissions | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Verify climate/plant/media inputs, hydrozones, source rights/quality, pressure/flow, filtration, distribution audit, controls, drainage/runoff, monitoring, commissioning, and operator competence | | `G-17` Plant-health diagnosis, fertilizer, pesticide, pruning, transplant, and large-tree work | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain representative observation/sample/lab evidence, qualified diagnosis, current product label, site risk assessment, arborist/agronomy decision, safe method, records, and follow-up | | `G-18` Pond/water-feature purpose, water criteria, aquatic welfare, vector, and discharge | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Define use/contact, species/stock, water source, hydraulic and treatment calculations, chemistry/microbiology/oxygen criteria, welfare plan, vector control, overflow/discharge approval, and measured commissioning | | `G-19` Catchment, grading, infiltration, drainage, erosion, waterproofing, and receiving system | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain survey and rainfall basis, hydrology/hydraulics, geotechnics/groundwater, levels, inlet/outlet/overflow, waterproof interfaces, erosion/sediment controls, downstream approval, inspection, and maintenance access | | `G-20` Biodiversity, native/invasive, pollinator, carbon, cooling, flood, or sustainability outcome | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Define baseline, geography, accepted species/status, intervention, comparison boundary, indicators, method, monitoring period, confounders, trade-offs, and qualified ecological review | | `G-21` Water/electrical edge safety, slips, access, public interaction, and animal contact | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Verify intended users/contact, edge/guard/access route, slip and rescue considerations, electrical environment/protection/testing, animal-contact controls, supervision, signage, emergency plan, and authority approval | | `G-22` Live service, plant/product, price, capacity, coverage, schedule, case, image, certificate, and warranty | `KKP-01`, `KKP-02`, `KKP-03`, `KKP-04`, `KKP-05`, `KKP-06`, `KKP-07`, `KKP-08`, `KKP-09`, `KKP-10`, `KKP-11`, `KKP-12`, `KKP-13`, `KKP-14`, `KKP-15`, `KKP-16`, `KKP-17`, `KKP-18` | Obtain dated operator-approved source, exact scope, original rights/evidence, assumptions/exclusions, effective/review date, privacy basis, and approved wording; otherwise keep neutral | ## Source-refresh triggers Recheck immediately when: - an outline uses law, SNI status, certification, export, environmental, K3, or product-compliance language; - ISO/BSN records show review, amendment, replacement, confirmation, or withdrawal; - a supplier, product construction, adhesive/finish/preservative, report, certificate, label, or warranty changes; - project climate, use, load, fire strategy, moisture exposure, substrate, installation, or maintenance conditions differ; - an exact value, class, tolerance, test result, service life, price, yield, capacity, or acceptance decision is proposed; - publication begins more than 90 days after this verification date for law/safety/legal pages, or more than 12 months later for stable technical foundations. ## Next authorized stage The later outline and constrained-writing-instruction stage may use this file only when separately authorized. Article drafting, Markdown article creation, HTML hydration, publication dating, sitemap generation, deployment, and Google Search Console submission are intentionally **not performed in this research stage**.
+
+### KR-49
+
+- **Original sources:** [PUPR building information system](https://simbg.pu.go.id/), [WHO Guidelines for Indoor Air Quality: Dampness and Mould](https://www.who.int/publications/i/item/9789289041683).
+- **Purpose for this article:** Prevent planter or green-wall selection from bypassing load, waterproofing, drainage, wind, fire, falling-object, humidity, and access evidence.
+- **Safe grounded facts:** Saturated load, point load, anchorage, wind, overflow, leak detection, root barrier, drainage, lighting, humidity, access and replacement are separate checks.
+- **Limits:** Require building owner approval and coordinated structural, waterproofing/envelope, drainage, electrical, fire, access, and maintenance design.
+
+### KR-67
+
+- **Original sources:** [WHO recreational-water guidance](https://www.who.int/publications/i/item/9241546808), [CDC Model Aquatic Health Code](https://www.cdc.gov/model-aquatic-health-code/php/our-work/index.html).
+- **Purpose for this article:** Ground hotel, apartment, school, gym, therapy, competition, and waterpark operations without one universal SOP.
+- **Safe grounded facts:** Design capacity, actual attendance, bather load, testing logs, plant alarms, maintenance, incidents, staff qualifications, closure/downtime, and complaints are different datasets.
+- **Limits:** Require current Indonesian/local duties, facility risk assessment, operator plan, competence, authority approval, emergency arrangements, and real logs before procedures or compliance claims.
+
+### KR-37
+
+- **Original sources:** [Kemdikbud BPNB West Java discussion of Sundanese raised-house activity and terminology](https://kebudayaan.kemdikbud.go.id/bpnbjabar/aktivitas-masyarakat-sunda-di-golodog-imah-panggung/), [Kemdikbud cultural review of traditional architecture at Giri Jaya](https://kebudayaan.kemdikbud.go.id/bpnbjabar/patanjala-vol-2-no-3-september-2010/), and [Kemdikbud description of Cisamaya Kampung Pasundan](https://kebudayaan.kemdikbud.go.id/cisamaya-kampung-pasundan-tonjolkan-jejak-kehidupan-masyarakat-sunda/).
+- **Purpose for this article:** Ground saung/Sundanese-form vocabulary, context, use, materials, and respectful attribution without turning heritage narrative into a performance claim.
+- **Safe grounded facts:** “Saung,” “Sunda,” “traditional,” roof silhouette, bamboo, or decorative motifs do not prove a single universal form, authenticity, cultural permission, seismic resistance, climate performance, or code compliance.
+- **Limits:** Obtain topic-specific local/heritage sources, community or qualified cultural input, documented terminology/function/history, site context, design attribution/permission where relevant, and separate technical acceptance under G-02/G-03/G-05/G-06.
+
+### KR-27
+
+- **Original sources:** [SNI 1726:2019 official BSN catalogue](https://pesta.bsn.go.id/produk/index?key=1726) and [SNI 7973:2013 official BSN record](https://pesta.bsn.go.id/produk/detail/9716-sni79732013).
+- **Purpose for this article:** Prevent “small/light/open structure” language from bypassing seismic and connection review.
+- **Safe grounded facts:** Light weight, traditional appearance, open walls, modular fabrication, or one-storey height does not independently prove seismic exemption or acceptable anchorage and load transfer.
+- **Limits:** Resolve site seismic inputs, soil class, risk/use category, structural system, regularity, connection/anchorage, foundation, nonstructural components, applicable exceptions, and engineer acceptance under G-01/G-03/G-05.
+
+### KR-55
+
+- **Original sources:** [SNI 2847:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12306-sni28472019), [SNI 1727:2020 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12626-sni17272020), [SNI 1726:2019 catalog record — BSN](https://pesta.bsn.go.id/produk/detail/12305-sni17262019).
+- **Purpose for this article:** Ground soil, shell, rooftop, empty/full pool, hydrostatic uplift, joints, and settlement articles.
+- **Safe grounded facts:** Empty, filling, full, drained, high-groundwater, seismic, thermal/shrinkage, maintenance, and temporary stages can govern different actions and details.
+- **Limits:** Require site investigation, survey, current licensed standards, load combinations, calculations, joints/details, temporary works, inspection, and signed structural/geotechnical review.
+
+## Evidence gates
+
+- **TOPIC-GATE:** G-01, G-02, G-03, G-04, G-05, G-06, G-07, G-08, G-09, G-10, G-11, G-12, G-13, G-14, G-15, G-16, G-17, G-18, G-19, G-20, G-21, G-22; resolve the applicable project/product/professional evidence before exact selections, numbers, rights or duties, performance, compliance, or warranty claims.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/treatment-air-kolam-renang/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/treatment-air-kolam-renang-yogyakarta/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/treatment-air-kolam-renang-tuban/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/treatment-air-kolam-renang-ternate/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/treatment-air-kolam-renang-tegal/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/treatment-air-kolam-renang-tebingtinggi/` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `KKP-18-A04` → `/artikel/proyek-kolam-sekolah-publik.html` — Kolam Sekolah, Klub, dan Publik: Bather Load dan Governance
+- `KKP-18-A05` → `/artikel/proyek-kolam-rooftop-terintegrasi.html` — Kolam Rooftop sebagai Proyek Terintegrasi, Bukan Produk Lepas
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Jawaban singkat dan salah paham utama
+
+- **Purpose:** Jawab pertanyaan judul dalam pembuka dan luruskan miskonsepsi yang paling berbahaya.
+- **Tie back to this article:** Keep the explanation specific to “Menulis Case Study Proyek Kolam yang Bisa Diverifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Definisi dan batas objek
+
+- **Purpose:** Jelaskan apa yang dibahas, apa yang tidak, dan mengapa batas itu mengubah keputusan.
+- **Tie back to this article:** Keep the explanation specific to “Menulis Case Study Proyek Kolam yang Bisa Diverifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Cara kerjanya
+
+- **Purpose:** Terangkan mekanisme, urutan, pelaku, material/sistem, dan antarmuka secara sebab-akibat.
+- **Tie back to this article:** Keep the explanation specific to “Menulis Case Study Proyek Kolam yang Bisa Diverifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Faktor yang mengubah hasil
+
+- **Purpose:** Kelompokkan kondisi proyek, penggunaan, lingkungan, pelaksanaan, dan bukti yang relevan.
+- **Tie back to this article:** Keep the explanation specific to “Menulis Case Study Proyek Kolam yang Bisa Diverifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Contoh keputusan praktis
+
+- **Purpose:** Berikan skenario bersyarat atau tabel keputusan; tandai asumsi dan jangan mengarang pengalaman.
+- **Tie back to this article:** Keep the explanation specific to “Menulis Case Study Proyek Kolam yang Bisa Diverifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Kesalahan umum dan cara memeriksanya
+
+- **Purpose:** Bongkar shortcut umum lalu ubah menjadi pertanyaan/checklist verifikasi.
+- **Tie back to this article:** Keep the explanation specific to “Menulis Case Study Proyek Kolam yang Bisa Diverifikasi”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Kawan Kontraktorkolam.co.id!` and uses friendly `Kontraktorkolam.co.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
